@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('poseidon')
+angular.module('vExplorer')
 .controller('NavCtrl', function($rootScope, $scope, $state, $firebaseObject, $http, User){
   function goHome(){
     $state.go('home');

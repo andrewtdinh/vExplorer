@@ -1,4 +1,4 @@
 'use strict';
 
-angular.module('poseidon')
+angular.module('vExplorer')
 .constant('firebaseUrl', 'https://myfb.firebaseio.com/');

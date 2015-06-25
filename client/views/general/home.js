@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('poseidon')
+angular.module('vExplorer')
 .factory('Map', function($window){
   function Map(){}
 
